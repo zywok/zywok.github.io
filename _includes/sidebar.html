@@ -3,6 +3,9 @@
   <div class="sidebar-container">
     <div class="sidebar-logo">
       <a href="{{site.baseurl}}/" class="logo">{% if site.name %}{{site.name}}{% else %}Husky{% endif %}</a>
+      {% if page.img %}
+      <img class="page-img" src={{ "/assets/img/" | prepend: site.baseurl | append : husky.jpg}} alt="{{husky image}}">
+      {% endif %}
     </div>
 
     <menu class="sidebar-menu">
