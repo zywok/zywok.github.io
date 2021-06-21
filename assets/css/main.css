@@ -923,6 +923,10 @@ img.post-image, img.page-img {
   width: 100%;
 }
 
+img.logo-image, img.logo-img {
+  width: 30%;
+}
+
 .page-content {
   padding-bottom: 1rem;
   margin-bottom: 1rem;
