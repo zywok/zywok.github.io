@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Wooden house"
+title:  "God loves stupid kids"
 img: wooden_house.jpg
-date:   2017-03-29 00:00:00 +0200
+date:   2019-04-21 10:00:00 +0200
 description: Phasellus tincidunt pulvinar ante, pretium pellentesque urna mollis id. Donec convallis ut elit at aliquet. Suspendisse potenti.
 ---
 
