@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The beginning of the university"
-img: china_tiger_leaping_gorge.jpg
+img: wooden_house.jpg
 date:   2015-10-01 00:00:00 +0200
 description: Curabitur vulputate enim at metus malesuada, in iaculis nisl tincidunt. Mauris dapibus ut ante ornare ullamcorper. Vivamus ultrices erat lorem. Phasellus pretium nisl ac elit porttitor, id condimentum velit aliquam.
 ---
