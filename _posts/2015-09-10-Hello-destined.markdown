@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello, destined!"
-date:   2015-09-01 21:32:40 +0200
+date:   2015-09-10 21:32:40 +0200
 img:
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 categories: jekyll update
