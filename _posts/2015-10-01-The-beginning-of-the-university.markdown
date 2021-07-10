@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "China - tiger leaping gorge"
+title:  "The beginning of the university"
 img: china_tiger_leaping_gorge.jpg
-date:   2017-03-29 00:00:00 +0200
+date:   2015-10-01 00:00:00 +0200
 description: Curabitur vulputate enim at metus malesuada, in iaculis nisl tincidunt. Mauris dapibus ut ante ornare ullamcorper. Vivamus ultrices erat lorem. Phasellus pretium nisl ac elit porttitor, id condimentum velit aliquam.
 ---
 
